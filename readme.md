@@ -1,10 +1,10 @@
 
 ## About me
 
-Hi, I'm Mona. You might recognize me as GitHub's mascot.
+# Here are my likes:
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Javascript|
-|     2| Python    |
-|     3| SQL       |
+| Rank | Like |
+|-----:|------------|
+|     1| Dancing    |
+|     2| Board games|
+|     3| Video games|
