@@ -8,11 +8,11 @@ Introverted electronic music lover, board game enthusiast and dancer.
 
 | Rank | Genre |
 |-----:|------------|
-|     1| Trance    |
-|     2| Psy-Trance|
-|     3| Drum'n'Bass|
-|     4| Melodic Death Metal|
-|     5| Nu-metal|
+|     1| Trance :smiling_face_with_three_hearts:  |
+|     2| Psy-Trance :sunglasses:|
+|     3| Drum'n'Bass :star_struck:|
+|     4| Melodic Death Metal :metal:|
+|     5| Nu-metal :guitar:|
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
