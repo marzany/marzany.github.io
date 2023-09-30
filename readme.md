@@ -1,16 +1,18 @@
 
-## About me
+# About me
 
 Introverted electronic music lover, board game enthusiast and dancer.
 > “Don’t be fooled by my quiet exterior. It hides a wild mind and passionate heart.” – John Mark Green
 
-# Here are my likes:
+## My top music genres:
 
-| Rank | Like |
+| Rank | Genre |
 |-----:|------------|
-|     1| Dancing    |
-|     2| Board games|
-|     3| Video games|
+|     1| Trance    |
+|     2| Psy-Trance|
+|     3| Drum'n'Bass|
+|     4| Melodic Death Metal|
+|     5| Nu-metal|
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
