@@ -14,6 +14,11 @@ Introverted electronic music lover, board game enthusiast and dancer.
 |     4| Melodic Death Metal |
 |     5| Nu-metal |
 
+**My favourite board games:**
+- Descent
+- Betrayal at House on the Hill
+- Cartographers
+
 ### If you enjoy boardgames, go visit [here](https://cafeboardgame.fi/)!
 
 <picture>
