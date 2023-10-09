@@ -35,8 +35,8 @@ Introverted electronic music lover, board game enthusiast and dancer.
         "coordinates": [
           [
               [24.93545, 60.16952],
-              [25, 60.16952],
-              [25, 60.16852],
+              [24.93645, 60.16952],
+              [24.93645, 60.16852],
               [24.93545, 60.16852],
               [24.93545, 60.16952]
           ]
