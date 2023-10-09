@@ -21,6 +21,7 @@ Introverted electronic music lover, board game enthusiast and dancer.
 
 ### If you enjoy boardgames, go visit [here](https://cafeboardgame.fi/)!
 <picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://media.tenor.com/kh8uPhgWG8EAAAAi/cat-sticker-line-sticker.gif">
   <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/txFVrNzQm9wAAAAi/sleeping-fat-cat-zzzzzzzzz.gif">
   <img alt="Sleeping cat">
 </picture>
