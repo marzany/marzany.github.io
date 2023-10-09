@@ -20,34 +20,7 @@ Introverted electronic music lover, board game enthusiast and dancer.
 - Cartographers
 
 ### If you enjoy boardgames, go visit [here](https://cafeboardgame.fi/)!
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [24.93545, 60.16952],
-              [24.93645, 60.16952],
-              [24.93645, 60.16852],
-              [24.93545, 60.16852],
-              [24.93545, 60.16952]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/txFVrNzQm9wAAAAi/sleeping-fat-cat-zzzzzzzzz.gif">
+  <img alt="Sleeping cat">
 </picture>
