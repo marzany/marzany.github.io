@@ -1,7 +1,7 @@
 
 # About me
 
-Introverted electronic music lover, board game enthusiast and dancer.
+Introverted electronic music lover and board game enthusiast who loves to dance.
 > “Don’t be fooled by my quiet exterior. It hides a wild mind and passionate heart.” – John Mark Green
 
 ## My top music genres:
