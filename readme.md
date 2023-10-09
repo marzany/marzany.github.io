@@ -14,12 +14,12 @@ Introverted electronic music lover and board game enthusiast who loves to dance.
 |     4| Melodic Death Metal |
 |     5| Nu-metal |
 
-**My favourite board games:**
+## My favourite board games:**
 - Descent
 - Betrayal at House on the Hill
 - Cartographers
 
-### If you enjoy boardgames, go visit [here](https://cafeboardgame.fi/)!
+**If you enjoy boardgames, go visit [here](https://cafeboardgame.fi/)!**
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://media.tenor.com/kh8uPhgWG8EAAAAi/cat-sticker-line-sticker.gif">
   <source media="(prefers-color-scheme: dark)" srcset="https://media.tenor.com/txFVrNzQm9wAAAAi/sleeping-fat-cat-zzzzzzzzz.gif">
